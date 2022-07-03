@@ -8,7 +8,7 @@
 ![](https://i.ibb.co/CJD2R17/Screenshot-2022-07-03-22-48-21.png)
 <br>
 ## Installation
-	git clone
+	git clone https://github.com/redKatz/Mpy3
 	cd mpy3
 	pip3 install -r requirements.txt
 	python3 mpy3.py
