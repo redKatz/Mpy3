@@ -91,8 +91,9 @@ while True:
 			c = 0
 			continue
 		elif restart_re == "n":
+			sub.call("clear")
 			bye = '''
-			     ; 
+     ; 
      ;;
      ;';.
      ;  ;;
