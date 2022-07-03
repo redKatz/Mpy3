@@ -9,7 +9,7 @@
 <br>
 ## Installation
 	git clone https://github.com/redKatz/Mpy3
-	cd mpy3
+	cd Mpy3
 	pip3 install -r requirements.txt
 	python3 mpy3.py
 	
