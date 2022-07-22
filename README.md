@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/874Mwby/log-removebg-preview.png)
 <br>
 
-#### Mpy3 is a mp3s an mp3 player written completely in python.
+#### Mpy3 is a CLI-mp3 player written completely in python.
 
 <br>
 
